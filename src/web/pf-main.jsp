@@ -1,4 +1,5 @@
-<%@page import="org.jivesoftware.openfire.plugin.PacketFilterUtil"%>
+<%@ page contentType="text/html; charset=UTF-8" %>
+<%@ page import="org.jivesoftware.openfire.plugin.PacketFilterUtil"%>
 <%@ page import="org.jivesoftware.openfire.component.InternalComponentManager,
                  org.jivesoftware.openfire.plugin.component.ComponentList,
                  org.jivesoftware.openfire.plugin.rules.Rule,
