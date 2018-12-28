@@ -1,4 +1,5 @@
 <%@ page contentType="text/html; charset=UTF-8" %>
+<%@ page contentType="text/html; charset=UTF-8" %>
 <script type="text/javascript"
     src="/plugins/packetfilter/dwr2/interface/RuleManagerProxy.js"> </script>
 <script type="text/javascript"
