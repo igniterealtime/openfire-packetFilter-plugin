@@ -8,7 +8,7 @@
     <description>Rules to enforce ethical communication</description>
     <author>Nate Putnam</author>
     <version>${project.version}</version>
-    <date>tbc.</date>
+    <date>11/10/2020</date>
     <minServerVersion>4.0.0</minServerVersion>
     <minJavaVersion>1.8</minJavaVersion>
     <databaseKey>packetfilter</databaseKey>
