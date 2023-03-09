@@ -4,11 +4,11 @@
     <class>org.jivesoftware.openfire.plugin.PacketFilterPlugin</class>
 
 
-    <name>Packet Filter</name>
-    <description>Rules to enforce ethical communication</description>
+    <name>${project.name}</name>
+    <description>${project.description}</description>
     <author>Nate Putnam</author>
     <version>${project.version}</version>
-    <date>11/10/2020</date>
+    <date>2023-03-09</date>
     <minServerVersion>4.0.0</minServerVersion>
     <minJavaVersion>1.8</minJavaVersion>
     <databaseKey>packetfilter</databaseKey>
