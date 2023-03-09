@@ -9,7 +9,7 @@
     <groupId>org.igniterealtime.openfire.plugins</groupId>
     <artifactId>packetFilter</artifactId>
     <version>3.3.2-SNAPSHOT</version>
-    <name>PacketFilter Plugin</name>
+    <name>Packet Filter</name>
     <description>Rules to enforce ethical communication</description>
 
     <developers>
